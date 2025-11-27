@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# CatBoost logs
+catboost_info/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Logs
+*.log
